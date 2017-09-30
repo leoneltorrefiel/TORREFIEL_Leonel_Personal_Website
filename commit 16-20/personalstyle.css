@@ -1,0 +1,73 @@
+#p1{
+width:400px;
+border: 2px solid blue;
+padding: 5px;
+margin: 10px;
+background-color:gray;
+
+}
+h1{
+width:400px;
+border: 2px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:black;
+}
+.one{
+width:400px;
+border: 2px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:black;}
+#p2{
+width:400px;
+border: 2px solid blue;
+padding: 5px;
+margin: 10px;
+background-color:gray;
+}
+.two{
+width:400px;
+border: 2px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:black;
+}
+#p3{
+width:400px;
+border: 2px solid blue;
+padding: 5px;
+margin: 10px;
+background-color:gray;
+}
+
+body {
+    background-image: url("bg2_1.jpg");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: Green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
