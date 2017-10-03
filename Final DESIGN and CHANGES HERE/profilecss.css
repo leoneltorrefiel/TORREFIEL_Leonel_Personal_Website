@@ -1,0 +1,97 @@
+#p1{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:transparent;
+position: ;
+
+}
+h1{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:transparent;
+
+}
+.one{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color: transparent;}
+#p2{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color: transparent;
+}
+.two{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:transparent;
+}
+#p3{
+width:470px;
+border: 4px solid gray;
+padding: 5px;
+margin: 10px;
+background-color:transparent;
+
+}
+#inner{
+display: table;
+margin:0 auto;
+}
+.ee{
+height:1000px;
+border:4px solid gray;
+margin:5px;
+
+}
+body {
+    background-image: url("bg21.jpg");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+    margin-top: 50px;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: Green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: white;
+}
+.navbar  a:active { 
+    background-color: yellow;
+}
